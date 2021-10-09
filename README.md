@@ -6,6 +6,13 @@ url decoder
 ```
 https%3A%2F%2Fmywebsite%2Fdocs%2Fenglish%2Fsite%2Fmybook.do%3Frequest_type
 ```
+
+
+Safelink Decoder:  
+```
+https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmywebsite%2Fdocs%2Fenglish%2Fsite%2Fmybook.do%3Frequest_type
+```
+
 URL unshortner
 ```
 https://bit.ly/jigsawcybertalks
