@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 __description__ = 'Tool to test a PDF file'
-__author__ = 'Rachana Kumari'
+__author__ = 'Animesh Kumar'
 __version__ = '0.2.5'
 __date__ = '2021/08/05'
 
