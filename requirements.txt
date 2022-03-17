@@ -35,4 +35,3 @@ termcolor
 colorama
 scipy
 googletrans
-pickle
