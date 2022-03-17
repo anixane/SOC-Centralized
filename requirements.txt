@@ -34,3 +34,5 @@ requests
 termcolor
 colorama
 scipy
+googletrans
+pickle
