@@ -12,8 +12,6 @@ import strictyaml
 import urllib.parse
 import requests
 from ipwhois import IPWhois
-import tkinter
-import tkinter.filedialog
 from googletrans import Translator
 from pandas import read_csv
 from sklearn.ensemble import RandomForestClassifier
