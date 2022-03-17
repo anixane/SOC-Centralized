@@ -43,7 +43,6 @@ import joblib
 import urllib
 import urllib3
 from requests.auth import HTTPBasicAuth
-from termcolor import colored, cprint
 import colorama
 import base64
 import webbrowser
